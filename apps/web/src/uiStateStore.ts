@@ -1,14 +1,14 @@
 import { Debouncer } from "@tanstack/react-pacer";
 import { create } from "zustand";
 
-const PERSISTED_STATE_KEY = "t3code:ui-state:v1";
+const PERSISTED_STATE_KEY = "txcode:ui-state:v1";
 const LEGACY_PERSISTED_STATE_KEYS = [
-  "t3code:renderer-state:v8",
-  "t3code:renderer-state:v7",
-  "t3code:renderer-state:v6",
-  "t3code:renderer-state:v5",
-  "t3code:renderer-state:v4",
-  "t3code:renderer-state:v3",
+  "txcode:renderer-state:v8",
+  "txcode:renderer-state:v7",
+  "txcode:renderer-state:v6",
+  "txcode:renderer-state:v5",
+  "txcode:renderer-state:v4",
+  "txcode:renderer-state:v3",
   "codething:renderer-state:v4",
   "codething:renderer-state:v3",
   "codething:renderer-state:v2",

@@ -19,12 +19,12 @@ npx t3
 
 ### Desktop app
 
-Install the latest version of the desktop app from [GitHub Releases](https://github.com/pingdotgg/t3code/releases), or from your favorite package registry:
+Install the latest version of the desktop app from [GitHub Releases](https://github.com/pingdotgg/txcode/releases), or from your favorite package registry:
 
 #### Windows (`winget`)
 
 ```bash
-winget install T3Tools.T3Code
+winget install T3Tools.TxCode
 ```
 
 #### macOS (Homebrew)
@@ -36,7 +36,7 @@ brew install --cask t3-code
 #### Arch Linux (AUR)
 
 ```bash
-yay -S t3code-bin
+yay -S txcode-bin
 ```
 
 ## Some notes
